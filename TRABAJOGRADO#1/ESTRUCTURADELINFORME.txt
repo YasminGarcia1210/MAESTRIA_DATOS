@@ -1,0 +1,33 @@
+# Introdución
+Contextos y antecedentes
+Objetivos
+Metodología
+
+Marco Teorico 
+
+Estado del arte 
+* Identifica y presenta trabajos relevantes y relacionados con los objetivos del proyecto. Adicionalmente, se realiza una discusión integral de los trabajos revisados, generando
+comparativos que faciliten identificar limitaciones actuales y oportunidades en donde sea posible contribuir.
+**Propuesta**
+Selección y estudio de viabilidad del dataset para un proyecto de ciencias de datos.
+Comprensión y validación de los datos
+
+Propuesta 
+Estrategias de optimización para cada modelo y análisis de los nuevos valores obtenidos en métricas de desempeño.
+
+*Resultados*
+Comparativo de los diferentes modelos de aprendizaje de máquina a través de la discusión y análisis desde las métricas de desempeño.
+
+Selección justificada del mejor modelo (Propuesta final).
+
+Validación Aprobación y feedback por parte del stakeholder del sector industria. Despliegue (GitHub por ejemplo), certificación.
+
+Conclusiones: Proposiciones finales que integran y consolidan de manera general lo aprendido y obtenido después de finalizar el trabajo.
+
+Limitaciones: En algunas ocasiones, de ser necesario, es importante aclarar si el desarrollo del trabajo y sus resultados presentan algunas limitaciones en su aplicación final.
+
+Trabajo Futuro: Comentar brevemente las posibilidades de extensión funcional que tiene la propuesta desarrollada en el informe.
+
+Referencias Bibliografía de referencia citada a lo largo de la estructura del documento.
+
+Anexos Documentación extra, de soporte y/o ampliación de algunas de las secciones del documento
