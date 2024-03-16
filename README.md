@@ -1,5 +1,7 @@
 Tutores
-Anibal Aristizabal 
+
+Anibal Sosa 
+
 Andres Aristizabla
 
 **Integrantes**
