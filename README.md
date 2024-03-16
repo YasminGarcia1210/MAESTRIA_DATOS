@@ -2,7 +2,7 @@ Tutores
 Anibal Aristizabal 
 Andres Aristizabla
 
-Integrantes 
+**Integrantes**
 * Laura
 * Andrea
 * Ricardo
