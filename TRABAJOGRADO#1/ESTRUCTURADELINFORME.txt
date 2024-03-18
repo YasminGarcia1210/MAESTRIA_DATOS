@@ -8,12 +8,23 @@ Marco Teorico
 Estado del arte 
 * Identifica y presenta trabajos relevantes y relacionados con los objetivos del proyecto. Adicionalmente, se realiza una discusión integral de los trabajos revisados, generando
 comparativos que faciliten identificar limitaciones actuales y oportunidades en donde sea posible contribuir.
+
 **Propuesta**
 Selección y estudio de viabilidad del dataset para un proyecto de ciencias de datos.
 Comprensión y validación de los datos
 
-Propuesta 
+* Propuesta 
 Estrategias de optimización para cada modelo y análisis de los nuevos valores obtenidos en métricas de desempeño.
+Selección y estudio de viabilidad del dataset para un proyecto de ciencias de datos.
+Comprensión y validación de los datos.
+Identificación del tipo de problema y del paradigma de IA adecuado para abordarlo (supervisado, no supervisado, clasificación, predicción, etc.) .
+Revisión y justificación sobre la selección y descarte de features.
+Acciones de pre procesamiento y su justificación.
+Selección y justificación de los algoritmos de aprendizaje máquina.
+Identificación y ajuste justificado de hiperparámetros para cada algoritmo de aprendizaje máquina.
+Selección y justificación de las métricas de desempeño.
+Generación de modelos de aprendizaje de máquina.
+Análisis de los valores obtenidos en métricas de desempeño para cada modelo de aprendizaje de máquina.
 
 *Resultados*
 Comparativo de los diferentes modelos de aprendizaje de máquina a través de la discusión y análisis desde las métricas de desempeño.
