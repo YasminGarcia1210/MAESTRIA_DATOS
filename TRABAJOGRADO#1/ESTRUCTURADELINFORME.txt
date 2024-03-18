@@ -24,7 +24,8 @@ Selección y justificación de los algoritmos de aprendizaje máquina.
 Identificación y ajuste justificado de hiperparámetros para cada algoritmo de aprendizaje máquina.
 Selección y justificación de las métricas de desempeño.
 Generación de modelos de aprendizaje de máquina.
-Análisis de los valores obtenidos en métricas de desempeño para cada modelo de aprendizaje de máquina.
+Análisis de los valores obtenidos en métricas de desempeño para cada modelo de aprendizaje de máquina.(Tenerlos en una presentación tabular )
+mirar si se puede optimizar : tecnicas de balanceo de clases, croos validation
 
 *Resultados*
 Comparativo de los diferentes modelos de aprendizaje de máquina a través de la discusión y análisis desde las métricas de desempeño.
